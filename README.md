@@ -1,4 +1,5 @@
 ### Hi there 👋
+### [My Blog](https://www.jianshu.com/u/654b475199fb) 💬 
 
 <!--
 **512DIDIDI/512DIDIDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
