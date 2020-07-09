@@ -1,6 +1,6 @@
-### Hi there, It's dididi 👋
-### [My Blog](https://www.jianshu.com/u/654b475199fb) ✨
-### Contact : 512dididi@gmail.com 💬 
+### Hi there, It's dididi :stuck_out_tongue_winking_eye:
+### [My Blog](https://www.jianshu.com/u/654b475199fb) :point_left:
+### Contact : 512dididi@gmail.com :email:
 
 <!--
 **512DIDIDI/512DIDIDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
